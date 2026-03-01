@@ -1,4 +1,4 @@
-# Olá, eu sou o Guilherme Avila Silva! 👋
+## Olá, eu sou o Guilherme Avila 👋
 
 Estudante de **Engenharia de Software** pela **UCS - Caxias do Sul**
 
