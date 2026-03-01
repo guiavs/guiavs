@@ -1,16 +1,16 @@
-## Hi there 👋
+# Olá, eu sou o Guilherme Avila Silva! 👋
 
-<!--
-**guiavs/guiavs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de **Engenharia de Software** pela **UCS - Caxias do Sul**. 
 
-Here are some ideas to get you started:
+### 🛠️ Sobre mim
+- 🎓 Cursando **1º Semestre** de Engenharia de Software (Noite).
+- 💻 **Conhecimentos e Estudos:** Lógica de Programação.
+- ⚙️ **Hardware:** Montagem, manutenção e configuração de sistemas.
+- 🪖 Reservista do Exército Brasileiro (3º GAAAe) — Agraciado com o **Diploma de Destaque do Mês** (Set/25) por desempenho e determinação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Objetivo
+Busco minha primeira oportunidade como **Estagiário em TI**.
+
+### 📧 Contato
+- **LinkedIn:** [avila-guilherme](https://www.linkedin.com/in/avila-guilherme/)
+- **Email:** [guiavs.pro@gmail.com](mailto:guiavs.pro@gmail.com)
